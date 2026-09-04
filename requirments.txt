@@ -9,3 +9,10 @@ pycountry
 tqdm
 ipywidgets
 scikit-learn
+transformers
+faiss-cpu
+torch
+plotly
+nbformat
+openai
+python-dotenv
